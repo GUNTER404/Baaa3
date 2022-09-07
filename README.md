@@ -1,6 +1,7 @@
 # Baaa3
 ```sh
-npm install https://github.com/GUNTER404/Baaa3```
+npm install https://github.com/GUNTER404/Baaa3
+```
 ```js
 const Baaa3 = require('Baaa3')
 ```
